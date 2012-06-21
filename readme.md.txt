@@ -1,0 +1,1 @@
+This is a space invaders clone I wrote as the first challenge at a dev/null competition in Stockholm. It's not a full game but some good basics if you'd like to try out game programming in 2D Canvas. 
